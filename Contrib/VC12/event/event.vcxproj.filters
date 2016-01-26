@@ -234,7 +234,7 @@
     <ClInclude Include="..\..\..\include\event2\visibility.h">
       <Filter>Headers Public</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\include\event2\event-config.h">
+    <ClInclude Include="..\..\..\WIN32-Code\nmake\event2\event-config.h">
       <Filter>Headers Public</Filter>
     </ClInclude>
   </ItemGroup>

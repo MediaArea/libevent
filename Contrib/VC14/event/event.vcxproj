@@ -159,7 +159,7 @@
     <ClInclude Include="..\..\..\include\event2\thread.h" />
     <ClInclude Include="..\..\..\include\event2\util.h" />
     <ClInclude Include="..\..\..\include\event2\visibility.h" />
-    <ClInclude Include="..\..\..\include\event2\event-config.h" />
+    <ClInclude Include="..\..\..\WIN32-Code\nmake\event2\event-config.h" />
     <ClCompile Include="..\..\..\buffer.c" />
     <ClCompile Include="..\..\..\bufferevent.c" />
     <ClCompile Include="..\..\..\bufferevent_filter.c" />
